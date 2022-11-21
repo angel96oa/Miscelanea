@@ -1,0 +1,6 @@
+Iniciación a Watson IoT Platform: https://console.bluemix.net/docs/services/IoT/index.html#gettingstartedtemplate
+Connecting Pycom devices to Watson IoT platform: https://developer.ibm.com/recipes/tutorials/connecting-pycom-devices-to-watson-iot-platform/
+Deploy Internet of Things Platform Starter service on Bluemix: https://developer.ibm.com/recipes/tutorials/deploy-internet-of-things-platform-starter-service-on-bluemix/
+Getting started with Watson IoT Platform using Node-RED: https://developer.ibm.com/recipes/tutorials/getting-started-with-watson-iot-platform-using-node-red/
+Conectividad de MQTT para dispositivos: https://console.bluemix.net/docs/services/IoT/devices/mqtt.html#mqtt
+UI Dashboard for IoT Device data using node red: https://developer.ibm.com/recipes/tutorials/ui-dashboard-for-iot-device-data-using-node-red/
